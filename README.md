@@ -7,6 +7,7 @@ This project demonstrates how to host a static website using Amazon S3 with a ba
 http://rahul9193bucket.s3-website.eu-north-1.amazonaws.com
 
 USERNAME: admin
+
 PASSWORD :admin123
 
 ## 🛠 Tools Used
